@@ -60,3 +60,5 @@ The following are features that I did not implement in the application:
 - User profiles: capabality for users to add or edit their password, email address, profile picture, and biography
 
 You can view a complete list of completed and icebox features on the [Trello board](https://trello.com/b/3644sG7S/bc-6-issue-tracker Trello board) for this application.
+
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
